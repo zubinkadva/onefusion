@@ -1,3 +1,17 @@
 # One Fusion
 
-Based off the login from Microsofts One Drive, an extremely simple project to have some fun...
+# When?
+Personal fun, 2016
+
+# What?
+- Based off the login from Microsofts One Drive 
+
+# Technologies?
+- PHP
+- HTML
+- CSS
+- Javascript
+- jQuery
+- AJAX
+
+
