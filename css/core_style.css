@@ -1,0 +1,50 @@
+.top_image {
+    display: block;
+    margin: 1% auto 0;
+}
+
+.title_text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.title_text2 {
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.center {
+    display: block;
+    margin: 1% auto 0;
+}
+
+input[type=text], input[type=password] {
+    width: 17%;
+    padding: 8px 12px;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #0078d7;
+    width: 18.5%;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.errorClass {
+    border: 1px solid red;
+}
+
+.error_text {
+    color: red;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 1%;
+}
